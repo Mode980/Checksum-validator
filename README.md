@@ -72,6 +72,5 @@ mode980/
 ## 👤 Developed by
 
 **Mohamed Elshazly**
-Cairo, Egypt 🇪🇬
 
 > Proudly made with Python 💙
