@@ -65,7 +65,6 @@ mode980/
 ├── README.md                    # Project documentation
 ├── build/                       # PyInstaller build output
 ├── dist/                        # Final .exe file
-└── .venv/                       # Virtual environment
 ```
 
 ---
